@@ -1,2 +1,2 @@
-# goit22-markup-hw-03
-ДЗ - Модуль 3 (Блочная модель, Flexbox)
+# goit22-markup-hw-02
+ДЗ - Модуль 2 (Основы CSS)
